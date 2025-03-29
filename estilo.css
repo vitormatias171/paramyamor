@@ -1,0 +1,28 @@
+
+#conteudo{ 
+    background-image: url(./eu2.jpg);
+    background-attachment: scroll;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    padding: 10px;
+    text-align: center;
+}
+
+    
+    .btn {     color: white;
+    background: black;
+    font-size: 110%;
+    }
+    .tnt { color: rgb(0, 255, 255);
+        background: rgb(255, 7, 7);
+        font: 150%
+        ;
+        
+    }
+
+    
+   
+    
